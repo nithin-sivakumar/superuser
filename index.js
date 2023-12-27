@@ -1,11 +1,11 @@
 // .config()
 
-// const { config, checkConfig } = require("./functions/config");
-// const { create } = require("./functions/create");
-// const createModel = require("./functions/createModel");
-// const { deleteById } = require("./functions/delete");
-// const { get } = require("./functions/get");
-// const { update } = require("./functions/update");
+const { config, checkConfig } = require("./functions/config");
+const { create } = require("./functions/create");
+const createModel = require("./functions/createModel");
+const { deleteById } = require("./functions/delete");
+const { get } = require("./functions/get");
+const { update } = require("./functions/update");
 
 // .create()
 
