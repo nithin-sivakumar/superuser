@@ -1,0 +1,25 @@
+{
+  "name": "@nithin-sivakumar/superuser",
+  "version": "1.0.0",
+  "description": "A package to simplify user API for backend operations using Mongoose and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mongoose",
+    "backend",
+    "api",
+    "user",
+    "superuser"
+  ],
+  "author": "Nithin Sivakumar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nithin-sivakumar/superuser.git"
+  },
+  "dependencies": {
+    "mongoose": "^6.0.3"
+  }
+}
