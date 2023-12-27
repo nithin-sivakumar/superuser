@@ -67,3 +67,12 @@
 // main();
 
 console.log(`Thank you for using superuser`);
+
+module.exports = {
+  config,
+  createModel,
+  get,
+  update,
+  deleteById,
+  create,
+};
